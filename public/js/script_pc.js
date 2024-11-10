@@ -1,1 +1,163 @@
-function _0x344c(_0x2c46d5,_0x5e2d33){const _0x1aed7c=_0x1aed();return _0x344c=function(_0x344c7e,_0xe19d1d){_0x344c7e=_0x344c7e-0xbb;let _0x10f4fd=_0x1aed7c[_0x344c7e];return _0x10f4fd;},_0x344c(_0x2c46d5,_0x5e2d33);}(function(_0x20ae77,_0x2212c1){const _0x19668a=_0x344c,_0x158909=_0x20ae77();while(!![]){try{const _0x5c4d07=parseInt(_0x19668a(0xd0))/0x1*(-parseInt(_0x19668a(0xc8))/0x2)+-parseInt(_0x19668a(0xdc))/0x3*(parseInt(_0x19668a(0xd8))/0x4)+parseInt(_0x19668a(0xd4))/0x5+-parseInt(_0x19668a(0xe2))/0x6*(parseInt(_0x19668a(0xe0))/0x7)+parseInt(_0x19668a(0xdf))/0x8+-parseInt(_0x19668a(0xc6))/0x9+parseInt(_0x19668a(0xd5))/0xa*(parseInt(_0x19668a(0xc9))/0xb);if(_0x5c4d07===_0x2212c1)break;else _0x158909['push'](_0x158909['shift']());}catch(_0x399170){_0x158909['push'](_0x158909['shift']());}}}(_0x1aed,0x1e7ac),((async()=>{const _0x1259c0=_0x344c,_0x1e4d78=await axios[_0x1259c0(0xbe)](_0x1259c0(0xd1)),_0x125d31=_0x1e4d78[_0x1259c0(0xe6)]['name'],_0x48fdca=document[_0x1259c0(0xce)]('name-solara');_0x48fdca[_0x1259c0(0xe1)]=_0x125d31;const _0x553962=_0x1e4d78[_0x1259c0(0xe6)][_0x1259c0(0xc4)],_0x494e0f=document['getElementById']('img-solara');_0x494e0f[_0x1259c0(0xbc)]=_0x553962;const _0x4b96cd=_0x1e4d78[_0x1259c0(0xe6)][_0x1259c0(0xca)],_0x36f53b=document[_0x1259c0(0xce)](_0x1259c0(0xe9));_0x36f53b[_0x1259c0(0xe1)]=_0x4b96cd;_0x4b96cd==_0x1259c0(0xbd)?_0x36f53b[_0x1259c0(0xeb)][_0x1259c0(0xc1)]=_0x1259c0(0xd3):_0x36f53b['style']['backgroundColor']='red';const _0x5ba2f0=document[_0x1259c0(0xce)](_0x1259c0(0xdb)),_0x157763=_0x1e4d78[_0x1259c0(0xe6)][_0x1259c0(0xe4)];_0x5ba2f0[_0x1259c0(0xcd)](_0x1259c0(0xc2),function(){const _0x5536d7=_0x1259c0;window[_0x5536d7(0xe5)][_0x5536d7(0xc5)]=_0x157763;});const _0x33d40a=await axios[_0x1259c0(0xbe)]('https://api-download-executor-roblox.vercel.app/executor-pc?type=wave'),_0x4d2851=_0x33d40a['data'][_0x1259c0(0xd6)],_0x559a44=document['getElementById'](_0x1259c0(0xe8));_0x559a44[_0x1259c0(0xe1)]=_0x4d2851;const _0xab7aea=_0x33d40a[_0x1259c0(0xe6)][_0x1259c0(0xc4)],_0x25ac56=document[_0x1259c0(0xce)](_0x1259c0(0xc7));_0x25ac56['src']=_0xab7aea;const _0x3f446a=_0x33d40a[_0x1259c0(0xe6)]['status'],_0x45c233=document[_0x1259c0(0xce)](_0x1259c0(0xbb));_0x45c233[_0x1259c0(0xe1)]=_0x3f446a;_0x3f446a==_0x1259c0(0xbd)?_0x45c233[_0x1259c0(0xeb)]['backgroundColor']=_0x1259c0(0xd3):_0x45c233['style']['backgroundColor']=_0x1259c0(0xe3);const _0x1a0df7=document[_0x1259c0(0xce)](_0x1259c0(0xea)),_0x5e678b=_0x33d40a[_0x1259c0(0xe6)]['link'];_0x1a0df7['addEventListener'](_0x1259c0(0xc2),function(){const _0x4282e1=_0x1259c0;window[_0x4282e1(0xe5)]['href']=_0x5e678b;});const _0x49e91f=await axios[_0x1259c0(0xbe)]('https://api-download-executor-roblox.vercel.app/executor-pc?type=flexer'),_0x2c60a5=_0x49e91f['data']['name'],_0x41577e=document[_0x1259c0(0xce)](_0x1259c0(0xd9));_0x41577e['textContent']=_0x2c60a5;const _0x1f61da=_0x49e91f[_0x1259c0(0xe6)][_0x1259c0(0xc4)],_0x1f2e33=document[_0x1259c0(0xce)](_0x1259c0(0xde));_0x1f2e33[_0x1259c0(0xbc)]=_0x1f61da;const _0x78ee80=_0x49e91f[_0x1259c0(0xe6)][_0x1259c0(0xca)],_0x50a16a=document[_0x1259c0(0xce)](_0x1259c0(0xc0));_0x50a16a[_0x1259c0(0xe1)]=_0x78ee80;_0x78ee80==_0x1259c0(0xbd)?_0x50a16a[_0x1259c0(0xeb)][_0x1259c0(0xc1)]='green':_0x50a16a[_0x1259c0(0xeb)]['backgroundColor']='red';const _0x2a826e=document[_0x1259c0(0xce)](_0x1259c0(0xdd)),_0x4b3a72=_0x49e91f[_0x1259c0(0xe6)][_0x1259c0(0xe4)];_0x2a826e[_0x1259c0(0xcd)](_0x1259c0(0xc2),function(){const _0x4ab832=_0x1259c0;window[_0x4ab832(0xe5)][_0x4ab832(0xc5)]=_0x4b3a72;});const _0x49156b=await axios[_0x1259c0(0xbe)]('https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur\x20pc\x20external'),_0x8107e0=_0x49156b[_0x1259c0(0xe6)][_0x1259c0(0xd6)],_0x16ee61=document['getElementById']('name-nezur');_0x16ee61[_0x1259c0(0xe1)]=_0x8107e0;const _0x3086b8=_0x49156b[_0x1259c0(0xe6)][_0x1259c0(0xc4)],_0x213bef=document[_0x1259c0(0xce)](_0x1259c0(0xda));_0x213bef['src']=_0x3086b8;const _0x38ee1a=_0x49156b[_0x1259c0(0xe6)][_0x1259c0(0xca)],_0x40e4d0=document[_0x1259c0(0xce)](_0x1259c0(0xd2));_0x40e4d0[_0x1259c0(0xe1)]=_0x38ee1a;_0x38ee1a==_0x1259c0(0xbd)?_0x40e4d0['style'][_0x1259c0(0xc1)]='green':_0x40e4d0[_0x1259c0(0xeb)]['backgroundColor']=_0x1259c0(0xe3);const _0x18e9a3=document['getElementById'](_0x1259c0(0xbf)),_0x55012f=_0x49156b['data']['link'];_0x18e9a3[_0x1259c0(0xcd)](_0x1259c0(0xc2),function(){const _0x40c209=_0x1259c0;window[_0x40c209(0xe5)][_0x40c209(0xc5)]=_0x55012f;});const _0x3bdf85=await axios[_0x1259c0(0xbe)](_0x1259c0(0xd7)),_0x205084=_0x3bdf85[_0x1259c0(0xe6)]['name'],_0x48ad3c=document[_0x1259c0(0xce)]('name-kiwi');_0x48ad3c['textContent']=_0x205084;const _0x4fe804=_0x3bdf85['data'][_0x1259c0(0xc4)],_0x41c37a=document[_0x1259c0(0xce)](_0x1259c0(0xc3));_0x41c37a[_0x1259c0(0xbc)]=_0x4fe804;const _0x33170b=_0x3bdf85[_0x1259c0(0xe6)][_0x1259c0(0xca)],_0x2ab771=document[_0x1259c0(0xce)]('status-kiwi');_0x2ab771['textContent']=_0x33170b;_0x33170b==='Working'?_0x2ab771[_0x1259c0(0xeb)][_0x1259c0(0xc1)]=_0x1259c0(0xd3):_0x2ab771[_0x1259c0(0xeb)]['backgroundColor']=_0x1259c0(0xe3);const _0x2c5f34=document[_0x1259c0(0xce)]('link-kiwi'),_0x2c4f44=_0x3bdf85['data'][_0x1259c0(0xe4)];_0x2c5f34['addEventListener'](_0x1259c0(0xc2),function(){const _0x3d5cdc=_0x1259c0;window[_0x3d5cdc(0xe5)][_0x3d5cdc(0xc5)]=_0x2c4f44;});const _0x578f89=await axios[_0x1259c0(0xbe)](_0x1259c0(0xcc)),_0x4c1e=_0x578f89['data'][_0x1259c0(0xd6)],_0x559f49=document['getElementById'](_0x1259c0(0xe7));_0x559f49[_0x1259c0(0xe1)]=_0x4c1e;const _0x3b5a75=_0x578f89['data'][_0x1259c0(0xc4)],_0x137db6=document[_0x1259c0(0xce)]('img-fluxus');_0x137db6[_0x1259c0(0xbc)]=_0x3b5a75;const _0x11a07f=_0x578f89[_0x1259c0(0xe6)][_0x1259c0(0xca)],_0x5a2389=document['getElementById'](_0x1259c0(0xcf));_0x5a2389['textContent']=_0x11a07f;_0x11a07f==_0x1259c0(0xbd)?_0x5a2389[_0x1259c0(0xeb)][_0x1259c0(0xc1)]='green':_0x5a2389['style'][_0x1259c0(0xc1)]=_0x1259c0(0xe3);const _0x2d35a1=document[_0x1259c0(0xce)](_0x1259c0(0xcb)),_0x255d8a=_0x578f89['data']['link'];_0x2d35a1[_0x1259c0(0xcd)](_0x1259c0(0xc2),function(){const _0x3c2138=_0x1259c0;window[_0x3c2138(0xe5)][_0x3c2138(0xc5)]=_0x255d8a;});})()));function _0x1aed(){const _0x3eb60c=['277871KKzvGK','status','link-fluxus','https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus','addEventListener','getElementById','status-fluxus','218991SzQsWe','https://api-download-executor-roblox.vercel.app/executor-pc?type=solara','status-nezur','green','84295xcaFKp','250nSODec','name','https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi\x20x\x20pc\x20external','4qyaQcI','name-flexer','img-nezur','link-solara','337167wUlgmJ','link-flexer','img-flexer','1062632uPweUZ','1981CzznAJ','textContent','2334YYmYaD','red','link','location','data','name-fluxus','name-wave','status-solara','link-wave','style','status-wave','src','Working','get','link-nezur','status-flexer','backgroundColor','click','img-kiwi','img','href','1934118MQJqtp','img-wave','2hzAsYS'];_0x1aed=function(){return _0x3eb60c;};return _0x1aed();}
+(async () => {
+
+
+    //solara
+    const executor_solara = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=solara");
+    const solara = executor_solara.data.name;
+    const name_solara =  document.getElementById('name-solara')
+    name_solara.textContent = solara;
+
+    const img_solara = executor_solara.data.img;
+    const img_solara_src = document.getElementById("img-solara");
+    img_solara_src.src = img_solara
+
+    const status_solara = executor_solara.data.status;
+    const status_text_solara = document.getElementById("status-solara");
+    status_text_solara.textContent = status_solara;
+
+    if(status_solara == "Working"){
+        status_text_solara.style.backgroundColor = "green"
+    } else {
+    status_text_solara.style.backgroundColor = "red";
+    }
+
+    const button_solara = document.getElementById("link-solara");
+    const link_solara =  executor_solara.data.link
+    
+    button_solara.addEventListener('click', function(){
+        window.location.href = link_solara
+    })
+  
+    //wave
+    const executor_wave = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=wave");
+    const wave = executor_wave.data.name;
+    const name_wave =  document.getElementById('name-wave')
+    name_wave.textContent = wave;
+
+    const img_wave = executor_wave.data.img;
+    const img_wave_src = document.getElementById("img-wave");
+    img_wave_src.src = img_wave
+
+    const status_wave = executor_wave.data.status;
+    const status_text_wave = document.getElementById("status-wave");
+    status_text_wave.textContent = status_wave;
+
+    if(status_wave == "Working"){
+        status_text_wave.style.backgroundColor = "green"
+    } else {
+    status_text_wave.style.backgroundColor = "red";
+    }
+
+    const button_wave = document.getElementById("link-wave");
+    const link_wave =  executor_wave.data.link
+    
+    button_wave.addEventListener('click', function(){
+        window.location.href = link_wave
+    })
+    
+    
+    const executor_flexer = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=flexer`);
+    const flexer = executor_flexer.data.name;
+    const name_flexer = document.getElementById('name-flexer');
+    name_flexer.textContent = flexer
+
+    const img_flexer = executor_flexer.data.img;
+    const img_flexer_src = document.getElementById("img-flexer");
+    img_flexer_src.src = img_flexer
+
+    const status_flexer = executor_flexer.data.status;
+    const status_text_flexer = document.getElementById("status-flexer");
+    status_text_flexer.textContent = status_flexer;
+
+    if(status_flexer == "Working"){
+        status_text_flexer.style.backgroundColor = "green"
+    } else {
+    status_text_flexer.style.backgroundColor = "red";
+    }
+
+    const button_flexer = document.getElementById("link-flexer");
+    const link_flexer =  executor_flexer.data.link
+    
+    button_flexer.addEventListener('click', function(){
+        window.location.href = link_flexer
+    })
+    
+    
+const executor_nezur = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur pc external`);
+    const nezur = executor_nezur.data.name;
+    const name_nezur = document.getElementById('name-nezur');
+    name_nezur.textContent = nezur
+
+    const img_nezur = executor_nezur.data.img;
+    const img_nezur_src = document.getElementById("img-nezur");
+    img_nezur_src.src = img_nezur;
+
+    const status_nezur = executor_nezur.data.status;
+    const status_text_nezur = document.getElementById("status-nezur");
+    status_text_nezur.textContent = status_nezur;
+
+    if(status_nezur == "Working"){
+        status_text_nezur.style.backgroundColor = "green"
+    } else {
+    status_text_nezur.style.backgroundColor = "red";
+    }
+
+    const button_nezur = document.getElementById("link-nezur");
+    const link_nezur =  executor_nezur.data.link;
+    
+    button_nezur.addEventListener('click', function() {
+        window.location.href = link_nezur
+    })
+    
+const executor_kiwi = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
+    const kiwi = executor_kiwi.data.name;
+    const name_kiwi = document.getElementById('name-kiwi');
+    name_kiwi.textContent = kiwi
+
+    const img_kiwi = executor_kiwi.data.img;
+    const img_kiwi_src = document.getElementById("img-kiwi");
+    img_kiwi_src.src = img_kiwi;
+
+    const status_kiwi = executor_kiwi.data.status;
+    const status_text_kiwi = document.getElementById("status-kiwi");
+    status_text_kiwi.textContent = status_kiwi;
+
+if (status_kiwi === "Working") {
+    status_text_kiwi.style.backgroundColor = "green"
+} else {
+    status_text_kiwi.style.backgroundColor = "red";
+}
+
+const button_kiwi = document.getElementById("link-kiwi");
+const link_kiwi = executor_kiwi.data.link;
+
+button_kiwi.addEventListener('click', function() {
+        window.location.href = link_kiwi
+    })
+
+ const executor_fluxus = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus");
+    const fluxus = executor_fluxus.data.name;
+    const name_fluxus = document.getElementById('name-fluxus');
+    name_fluxus.textContent = fluxus
+
+    const img_fluxus = executor_fluxus.data.img;
+    const img_fluxus_src = document.getElementById("img-fluxus");
+    img_fluxus_src.src = img_fluxus
+
+    const status_fluxus = executor_fluxus.data.status;
+    const status_text_fluxus = document.getElementById("status-fluxus");
+    status_text_fluxus.textContent = status_fluxus
+
+    if(status_fluxus == "Working"){
+        status_text_fluxus.style.backgroundColor = "green"
+    } else {
+    status_text_fluxus.style.backgroundColor = "red";
+    }
+
+    const button_fluxus = document.getElementById("link-fluxus");
+    const link_fluxus =  executor_fluxus.data.link
+    
+    button_fluxus.addEventListener('click', function() {
+        window.location.href = link_fluxus
+    });
+})();
