@@ -135,6 +135,7 @@ button_kiwi.addEventListener('click', function() {
         window.location.href = link_kiwi
     })
 
+// fluxus pc
  const executor_fluxus = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus");
     const fluxus = executor_fluxus.data.name;
     const name_fluxus = document.getElementById('name-fluxus');
