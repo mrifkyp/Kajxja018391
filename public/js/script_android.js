@@ -49,11 +49,11 @@
     }
 
     const button_delta = document.getElementById("link-delta");
-    const link_delta =  executor_delta.data.link
-    const update_link_delta = link_delta.replace(link_delta,"https://deltaexploits.gg/android_dl");
+    const link_delta =  "https://deltaexploits.gg/android_dl"
+    //const update_link_delta = link_delta.replace(link_delta,"https://deltaexploits.gg/android_dl");
     
     button_delta.addEventListener('click', function(){
-        window.location.href = update_link_delta
+        window.location.href = link_delta
     })
 
     
