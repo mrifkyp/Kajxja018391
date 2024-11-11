@@ -49,14 +49,14 @@
     }
 
     const button_delta = document.getElementById("link-delta");
-    const link_delta =  "https://deltaexploits.gg/android_dl"
-    //const update_link_delta = link_delta.replace(link_delta,"https://deltaexploits.gg/android_dl");
+    const link_delta =  executor_delta.data.link
     
     button_delta.addEventListener('click', function(){
         window.location.href = link_delta
     })
 
-    
+
+
     //codex
     const executor_codex = await axios.get("https://api-download-executor-roblox.vercel.app/executor-android?type=codex");
     const codex = executor_codex.data.name;
@@ -303,5 +303,5 @@
     
     button_hydrogen.addEventListener('click', function(){
         window.location.href = link_hydrogen
-    })
-})()
+    });
+})();
