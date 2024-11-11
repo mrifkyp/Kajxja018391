@@ -110,7 +110,7 @@ const executor_nezur = await axios.get(`https://api-download-executor-roblox.ver
     })
 
     
-const executor_fluxus = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
+const executor_kiwi = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
     const kiwi = executor_kiwi.data.name;
     const name_kiwi = document.getElementById('name-kiwi');
     name_kiwi.textContent = kiwi
