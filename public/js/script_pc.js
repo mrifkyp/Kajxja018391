@@ -108,6 +108,33 @@ const executor_nezur = await axios.get(`https://api-download-executor-roblox.ver
     button_nezur.addEventListener('click', function() {
         window.location.href = link_nezur
     })
+
+    
+const executor_fluxus = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
+    const kiwi = executor_kiwi.data.name;
+    const name_kiwi = document.getElementById('name-kiwi');
+    name_kiwi.textContent = kiwi
+
+    const img_kiwi = executor_kiwi.data.img;
+    const img_kiwi_src = document.getElementById("img-kiwi");
+    img_kiwi_src.src = img_kiwi;
+
+    const status_kiwi = executor_kiwi.data.status;
+    const status_text_kiwi = document.getElementById("status-kiwi");
+    status_text_kiwi.textContent = status_kiwi;
+
+if (status_kiwi === "Working") {
+    status_text_kiwi.style.backgroundColor = "green"
+} else {
+    status_text_kiwi.style.backgroundColor = "red";
+}
+
+const button_kiwi = document.getElementById("link-kiwi");
+const link_kiwi = executor_kiwi.data.link;
+
+button_kiwi.addEventListener('click', function() {
+        window.location.href = link_kiwi
+    })
     
     
 const executor_fluxus = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus`);
