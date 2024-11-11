@@ -133,32 +133,5 @@ const link_kiwi = executor_kiwi.data.link;
 
 button_kiwi.addEventListener('click', function() {
         window.location.href = link_kiwi
-    })
-
-// fluxus pc
- const executor_fluxus = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus");
-    const fluxus = executor_fluxus.data.name;
-    const name_fluxus = document.getElementById('name-fluxus');
-    name_fluxus.textContent = fluxus
-
-    const img_fluxus = executor_fluxus.data.img;
-    const img_fluxus_src = document.getElementById("img-fluxus");
-    img_fluxus_src.src = img_fluxus
-
-    const status_fluxus = executor_fluxus.data.status;
-    const status_text_fluxus = document.getElementById("status-fluxus");
-    status_text_fluxus.textContent = status_fluxus
-
-    if(status_fluxus == "Working"){
-        status_text_fluxus.style.backgroundColor = "green"
-    } else {
-    status_text_fluxus.style.backgroundColor = "red";
-    }
-
-    const button_fluxus = document.getElementById("link-fluxus");
-    const link_fluxus =  executor_fluxus.data.link
-    
-    button_fluxus.addEventListener('click', function() {
-        window.location.href = link_fluxus
     });
 })();
