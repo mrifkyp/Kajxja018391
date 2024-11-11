@@ -55,7 +55,7 @@
         window.location.href = link_wave
     })
     
-    
+    //flexer
     const executor_flexer = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=flexer`);
     const flexer = executor_flexer.data.name;
     const name_flexer = document.getElementById('name-flexer');
@@ -81,9 +81,10 @@
     button_flexer.addEventListener('click', function(){
         window.location.href = link_flexer
     })
-    
-    
-const executor_nezur = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur pc external`);
+
+
+    //nezur
+    const executor_nezur = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur pc external`);
     const nezur = executor_nezur.data.name;
     const name_nezur = document.getElementById('name-nezur');
     name_nezur.textContent = nezur
@@ -109,8 +110,9 @@ const executor_nezur = await axios.get(`https://api-download-executor-roblox.ver
         window.location.href = link_nezur
     })
 
-    
-const executor_kiwi = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
+
+    //kiwi
+    const executor_kiwi = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi x pc external`);
     const kiwi = executor_kiwi.data.name;
     const name_kiwi = document.getElementById('name-kiwi');
     name_kiwi.textContent = kiwi
@@ -136,7 +138,7 @@ button_kiwi.addEventListener('click', function() {
         window.location.href = link_kiwi
     })
     
-    
+    //fluxus pc
 const executor_fluxus = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus`);
     const fluxus = executor_fluxus.data.name;
     const name_fluxus = document.getElementById('name-fluxus');
