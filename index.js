@@ -10,6 +10,11 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'html', 'executor-android.html'));
   });
 
+// executor android
+app.get('/executor-android', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'html', 'executor-android.html'));
+});
+
 // executor ios
 app.get('/executor-ios', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'html', 'executor-ios.html'));
