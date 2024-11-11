@@ -1,1 +1,138 @@
-function _0x4d95(_0x787052,_0x5514fd){const _0x321625=_0x3216();return _0x4d95=function(_0x4d95b4,_0x15d919){_0x4d95b4=_0x4d95b4-0x18c;let _0x41f041=_0x321625[_0x4d95b4];return _0x41f041;},_0x4d95(_0x787052,_0x5514fd);}function _0x3216(){const _0x12feec=['style','14103520QxnWzu','name-kiwi','name','2361884szpGbw','2yqiXOE','status-wave','link-kiwi','972HDkHEC','click','textContent','https://api-download-executor-roblox.vercel.app/executor-pc?type=wave','get','img-wave','red','5198535rHvZEz','318940bYtGzs','https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur\x20pc\x20external','link-flexer','status-solara','green','https://api-download-executor-roblox.vercel.app/executor-pc?type=flexer','img-nezur','https://api-download-executor-roblox.vercel.app/executor-pc?type=kiwi\x20x\x20pc\x20external','link','Working','9106263RtKofu','backgroundColor','status','23226TThyyV','982518KHflDw','addEventListener','getElementById','name-flexer','href','status-kiwi','img-flexer','name-solara','status-flexer','img','location','name-nezur','src','link-nezur','data'];_0x3216=function(){return _0x12feec;};return _0x3216();}(function(_0x477ff8,_0x34edc8){const _0x4ccb3c=_0x4d95,_0x184d7f=_0x477ff8();while(!![]){try{const _0x56ee66=parseInt(_0x4ccb3c(0x192))/0x1+parseInt(_0x4ccb3c(0x1a6))/0x2*(parseInt(_0x4ccb3c(0x1b0))/0x3)+-parseInt(_0x4ccb3c(0x1a5))/0x4+parseInt(_0x4ccb3c(0x1b1))/0x5+-parseInt(_0x4ccb3c(0x1a9))/0x6*(parseInt(_0x4ccb3c(0x191))/0x7)+-parseInt(_0x4ccb3c(0x1a2))/0x8+parseInt(_0x4ccb3c(0x18e))/0x9;if(_0x56ee66===_0x34edc8)break;else _0x184d7f['push'](_0x184d7f['shift']());}catch(_0x165eea){_0x184d7f['push'](_0x184d7f['shift']());}}}(_0x3216,0xdbbbf),((async()=>{const _0x158208=_0x4d95,_0x2c4fa8=await axios[_0x158208(0x1ad)]('https://api-download-executor-roblox.vercel.app/executor-pc?type=solara'),_0x270b08=_0x2c4fa8[_0x158208(0x1a0)][_0x158208(0x1a4)],_0x54386e=document['getElementById'](_0x158208(0x199));_0x54386e[_0x158208(0x1ab)]=_0x270b08;const _0x5c804f=_0x2c4fa8[_0x158208(0x1a0)][_0x158208(0x19b)],_0x21bead=document['getElementById']('img-solara');_0x21bead['src']=_0x5c804f;const _0x4b1901=_0x2c4fa8[_0x158208(0x1a0)][_0x158208(0x190)],_0x50a32b=document[_0x158208(0x194)](_0x158208(0x1b4));_0x50a32b['textContent']=_0x4b1901;_0x4b1901=='Working'?_0x50a32b[_0x158208(0x1a1)]['backgroundColor']=_0x158208(0x1b5):_0x50a32b[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1af);const _0x17a9ed=document[_0x158208(0x194)]('link-solara'),_0x2cc744=_0x2c4fa8['data'][_0x158208(0x18c)];_0x17a9ed[_0x158208(0x193)](_0x158208(0x1aa),function(){const _0x493278=_0x158208;window[_0x493278(0x19c)][_0x493278(0x196)]=_0x2cc744;});const _0x2dbb8e=await axios[_0x158208(0x1ad)](_0x158208(0x1ac)),_0x10918e=_0x2dbb8e[_0x158208(0x1a0)]['name'],_0xd3fc81=document[_0x158208(0x194)]('name-wave');_0xd3fc81[_0x158208(0x1ab)]=_0x10918e;const _0x39fc70=_0x2dbb8e[_0x158208(0x1a0)]['img'],_0x5bf636=document[_0x158208(0x194)](_0x158208(0x1ae));_0x5bf636[_0x158208(0x19e)]=_0x39fc70;const _0x1a3e92=_0x2dbb8e[_0x158208(0x1a0)][_0x158208(0x190)],_0x18b47a=document['getElementById'](_0x158208(0x1a7));_0x18b47a[_0x158208(0x1ab)]=_0x1a3e92;_0x1a3e92==_0x158208(0x18d)?_0x18b47a[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1b5):_0x18b47a['style'][_0x158208(0x18f)]=_0x158208(0x1af);const _0xc3183d=document[_0x158208(0x194)]('link-wave'),_0x40dcaa=_0x2dbb8e[_0x158208(0x1a0)]['link'];_0xc3183d[_0x158208(0x193)]('click',function(){const _0x4d56c2=_0x158208;window[_0x4d56c2(0x19c)][_0x4d56c2(0x196)]=_0x40dcaa;});const _0xe5ee7f=await axios['get'](_0x158208(0x1b6)),_0x4734bf=_0xe5ee7f[_0x158208(0x1a0)][_0x158208(0x1a4)],_0x6b8e0a=document[_0x158208(0x194)](_0x158208(0x195));_0x6b8e0a[_0x158208(0x1ab)]=_0x4734bf;const _0x32a5f2=_0xe5ee7f[_0x158208(0x1a0)][_0x158208(0x19b)],_0x14b5b5=document[_0x158208(0x194)](_0x158208(0x198));_0x14b5b5[_0x158208(0x19e)]=_0x32a5f2;const _0x106160=_0xe5ee7f['data'][_0x158208(0x190)],_0x350743=document[_0x158208(0x194)](_0x158208(0x19a));_0x350743[_0x158208(0x1ab)]=_0x106160;_0x106160==_0x158208(0x18d)?_0x350743['style'][_0x158208(0x18f)]=_0x158208(0x1b5):_0x350743[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1af);const _0x133c9b=document[_0x158208(0x194)](_0x158208(0x1b3)),_0x526626=_0xe5ee7f['data'][_0x158208(0x18c)];_0x133c9b[_0x158208(0x193)]('click',function(){const _0x2695dc=_0x158208;window['location'][_0x2695dc(0x196)]=_0x526626;});const _0x2dde4e=await axios[_0x158208(0x1ad)](_0x158208(0x1b2)),_0x5d79cb=_0x2dde4e['data'][_0x158208(0x1a4)],_0x480449=document[_0x158208(0x194)](_0x158208(0x19d));_0x480449[_0x158208(0x1ab)]=_0x5d79cb;const _0x1d825c=_0x2dde4e[_0x158208(0x1a0)][_0x158208(0x19b)],_0x188570=document[_0x158208(0x194)](_0x158208(0x1b7));_0x188570[_0x158208(0x19e)]=_0x1d825c;const _0x42eae1=_0x2dde4e[_0x158208(0x1a0)][_0x158208(0x190)],_0x1f33e1=document[_0x158208(0x194)]('status-nezur');_0x1f33e1[_0x158208(0x1ab)]=_0x42eae1;_0x42eae1=='Working'?_0x1f33e1['style'][_0x158208(0x18f)]='green':_0x1f33e1[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1af);const _0x1f98e7=document['getElementById'](_0x158208(0x19f)),_0x30d4ec=_0x2dde4e[_0x158208(0x1a0)][_0x158208(0x18c)];_0x1f98e7[_0x158208(0x193)](_0x158208(0x1aa),function(){const _0x28943e=_0x158208;window[_0x28943e(0x19c)][_0x28943e(0x196)]=_0x30d4ec;});const _0x5adfbf=await axios[_0x158208(0x1ad)](_0x158208(0x1b8)),_0x46cae9=_0x5adfbf[_0x158208(0x1a0)][_0x158208(0x1a4)],_0x3100b1=document[_0x158208(0x194)](_0x158208(0x1a3));_0x3100b1['textContent']=_0x46cae9;const _0xfec9b=_0x5adfbf[_0x158208(0x1a0)]['img'],_0x37cc78=document[_0x158208(0x194)]('img-kiwi');_0x37cc78['src']=_0xfec9b;const _0x25fc3c=_0x5adfbf['data']['status'],_0x1f0d54=document[_0x158208(0x194)](_0x158208(0x197));_0x1f0d54[_0x158208(0x1ab)]=_0x25fc3c;_0x25fc3c===_0x158208(0x18d)?_0x1f0d54[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1b5):_0x1f0d54[_0x158208(0x1a1)][_0x158208(0x18f)]=_0x158208(0x1af);const _0x4e0892=document[_0x158208(0x194)](_0x158208(0x1a8)),_0x537666=_0x5adfbf['data'][_0x158208(0x18c)];_0x4e0892[_0x158208(0x193)]('click',function(){const _0x504fad=_0x158208;window[_0x504fad(0x19c)][_0x504fad(0x196)]=_0x537666;});})()));
+(async () => {
+
+
+    //solara
+    const executor_solara = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=solara");
+    const solara = executor_solara.data.name;
+    const name_solara =  document.getElementById('name-solara')
+    name_solara.textContent = solara;
+
+    const img_solara = executor_solara.data.img;
+    const img_solara_src = document.getElementById("img-solara");
+    img_solara_src.src = img_solara
+
+    const status_solara = executor_solara.data.status;
+    const status_text_solara = document.getElementById("status-solara");
+    status_text_solara.textContent = status_solara;
+
+    if(status_solara == "Working"){
+        status_text_solara.style.backgroundColor = "green"
+    } else {
+    status_text_solara.style.backgroundColor = "red";
+    }
+
+    const button_solara = document.getElementById("link-solara");
+    const link_solara =  executor_solara.data.link
+    
+    button_solara.addEventListener('click', function(){
+        window.location.href = link_solara
+    })
+  
+    //wave
+    const executor_wave = await axios.get("https://api-download-executor-roblox.vercel.app/executor-pc?type=wave");
+    const wave = executor_wave.data.name;
+    const name_wave =  document.getElementById('name-wave')
+    name_wave.textContent = wave;
+
+    const img_wave = executor_wave.data.img;
+    const img_wave_src = document.getElementById("img-wave");
+    img_wave_src.src = img_wave
+
+    const status_wave = executor_wave.data.status;
+    const status_text_wave = document.getElementById("status-wave");
+    status_text_wave.textContent = status_wave;
+
+    if(status_wave == "Working"){
+        status_text_wave.style.backgroundColor = "green"
+    } else {
+    status_text_wave.style.backgroundColor = "red";
+    }
+
+    const button_wave = document.getElementById("link-wave");
+    const link_wave =  executor_wave.data.link
+    
+    button_wave.addEventListener('click', function(){
+        window.location.href = link_wave
+    })
+    
+    
+    const executor_flexer = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=flexer`);
+    const flexer = executor_flexer.data.name;
+    const name_flexer = document.getElementById('name-flexer');
+    name_flexer.textContent = flexer
+
+    const img_flexer = executor_flexer.data.img;
+    const img_flexer_src = document.getElementById("img-flexer");
+    img_flexer_src.src = img_flexer
+
+    const status_flexer = executor_flexer.data.status;
+    const status_text_flexer = document.getElementById("status-flexer");
+    status_text_flexer.textContent = status_flexer;
+
+    if(status_flexer == "Working"){
+        status_text_flexer.style.backgroundColor = "green"
+    } else {
+    status_text_flexer.style.backgroundColor = "red";
+    }
+
+    const button_flexer = document.getElementById("link-flexer");
+    const link_flexer =  executor_flexer.data.link
+    
+    button_flexer.addEventListener('click', function(){
+        window.location.href = link_flexer
+    })
+    
+    
+const executor_nezur = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=nezur pc external`);
+    const nezur = executor_nezur.data.name;
+    const name_nezur = document.getElementById('name-nezur');
+    name_nezur.textContent = nezur
+
+    const img_nezur = executor_nezur.data.img;
+    const img_nezur_src = document.getElementById("img-nezur");
+    img_nezur_src.src = img_nezur;
+
+    const status_nezur = executor_nezur.data.status;
+    const status_text_nezur = document.getElementById("status-nezur");
+    status_text_nezur.textContent = status_nezur;
+
+    if(status_nezur == "Working"){
+        status_text_nezur.style.backgroundColor = "green"
+    } else {
+    status_text_nezur.style.backgroundColor = "red";
+    }
+
+    const button_nezur = document.getElementById("link-nezur");
+    const link_nezur =  executor_nezur.data.link;
+    
+    button_nezur.addEventListener('click', function() {
+        window.location.href = link_nezur
+    })
+    
+    
+const executor_fluxus = await axios.get(`https://api-download-executor-roblox.vercel.app/executor-pc?type=fluxus`);
+    const fluxus = executor_fluxus.data.name;
+    const name_fluxus = document.getElementById('name-fluxus');
+    name_fluxus.textContent = fluxus
+
+    const img_fluxus = executor_fluxus.data.img;
+    const img_fluxus_src = document.getElementById("img-fluxus");
+    img_fluxus_src.src = img_fluxus;
+
+    const status_fluxus = executor_fluxus.data.status;
+    const status_text_fluxus = document.getElementById("status-fluxus");
+    status_text_fluxus.textContent = status_fluxus;
+
+if (status_fluxus === "Working") {
+    status_text_fluxus.style.backgroundColor = "green"
+} else {
+    status_text_fluxus.style.backgroundColor = "red";
+}
+
+const button_fluxus = document.getElementById("link-fluxus");
+const link_fluxus = executor_fluxus.data.link;
+
+button_fluxus.addEventListener('click', function() {
+        window.location.href = link_fluxus
+    });
+})();
